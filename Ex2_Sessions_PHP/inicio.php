@@ -9,8 +9,8 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h2 class="text-center">Quiz - Você realmente conhece o Juncookie?</h2>
-        <form action="quest.php" method="post" class="mt-4">
+        <h2 class="text-center">Quiz - Você realmente conhece os aliens do BEN10?</h2>
+        <form action="quest1.php" method="post" class="mt-4">
             <div class="form-group">
                 <label for="nome1">Nome:</label>
                 <input type="text" name="nome" id="nome" class="form-control" required>
