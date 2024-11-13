@@ -1,3 +1,12 @@
+<?php
+session_start();
+
+// Definir a pontuação inicial
+if (!isset($_SESSION['pont'])) {
+    $_SESSION['pont'] = 0;
+}
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
